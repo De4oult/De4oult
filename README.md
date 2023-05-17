@@ -7,9 +7,9 @@
 
 <div id="stats" align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=De4oult&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=De4oult&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De4oult&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De4oult&layout=compact&theme=tokyonight&hide_border=true)-->
 </div>
 
 <div align="center">
