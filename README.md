@@ -38,7 +38,7 @@
 <h2 align="center"> 📮 How to reach me:</h2>
 <div id="social" align="center">
     <a href="https://t.me/de4oult">
-        <img src="https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram" alt="Telegram" height="30"/>
+        <img src="https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram" alt="Telegram" height="30" />
     </a>
-    <img src="https://img.shields.io/badge/-kayra.dist@gmail.com-informational?style=for-the-badge&logo=gmail" alt="Gmail" height="30"/>
+    <img src="https://img.shields.io/badge/-kayra.dist@gmail.com-informational?style=for-the-badge&logo=gmail" alt="Gmail" height="30" />
 </div>
