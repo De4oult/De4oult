@@ -25,13 +25,13 @@
 
 <div id="badges" align="center">
     <h2> 🛠️ Languages and tools: </h2>
-    <img src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=python"  height="30" />
-    <img src="https://img.shields.io/badge/-RUST-black?style=for-the-badge&logo=rust"      height="30" />
-    <img src="https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=go"          height="30" />
-    <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git"        height="30" />
-    <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github"  height="30" />
-    <img src="https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kalilinux" height="30" />
-    <img src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=linux"    height="30" />
+    <img src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=python"  alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-RUST-black?style=for-the-badge&logo=rust"      alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=go"          alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git"        alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github"  alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kalilinux" alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-LINUX-black?style=for-the-badge&logo=linux"    alt="Badge" height="30" />
 </div>
 
 
