@@ -27,7 +27,7 @@
     <h2> 🛠️ Languages and tools: </h2>
     <img src="https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=python"  alt="Badge" height="30" />
     <img src="https://img.shields.io/badge/-RUST-black?style=for-the-badge&logo=rust"      alt="Badge" height="30" />
-    <img src="https://img.shields.io/badge/-GO-black?style=for-the-badge&logo=go"          alt="Badge" height="30" />
+    <img src="https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript"  alt="Badge" height="30" />
     <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git"        alt="Badge" height="30" />
     <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github"  alt="Badge" height="30" />
     <img src="https://img.shields.io/badge/-KALI-black?style=for-the-badge&logo=kalilinux" alt="Badge" height="30" />
