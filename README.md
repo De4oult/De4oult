@@ -15,11 +15,10 @@
 <div align="center">
     <h2> 👋 About me</h2>
     <div align="left">
-    - 👋 My name is Timofey. I am developer from Moscow, Russia 🇷🇺 <br>
+    - 👋 My name is Timofey. I am developer from St. Petersburg, Russia 🇷🇺 <br>
     - 👨‍💻 I'm working on software that will greatly simplify the development process, and also create some fun projects. <br>
     - 🐧	I love Linux and hate Windows. 🪟 <br>
-    - 💥 At the moment I'm studying C/C++, system programming and computer networks. <br>
-    - 🤘 I love heavy, death and black metal 😄 <br>
+    - 💥 At the moment I'm studying system programming and computer networks. <br>
     </div>
 </div>
 
