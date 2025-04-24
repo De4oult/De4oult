@@ -13,10 +13,10 @@
 <div align="center">
     <h2> 👋 About me</h2>
     <div align="left">
-    - 👋 My name is Timofey. I am developer from St. Petersburg, Russia 🇷🇺 <br>
+    - 👋 My name is Timofey. I am developer from Tbilisi, Georgia 🇬🇪 <br>
+    - 💥 At the moment I'm working in HostAssist Ltd. <br>
     - 👨‍💻 I'm working on software that will greatly simplify the development process, and also create some fun projects. <br>
-    - 🐧	I love Linux and hate Windows. 🪟 <br>
-    - 💥 At the moment I'm studying system programming and computer networks. <br>
+    - 🐧	I love Linux and hate Windows. <br>
     </div>
 </div>
 
